@@ -37,3 +37,4 @@ C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppServer\obj\Debug\net6.0\re
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppServer\obj\Debug\net6.0\ChatAppServer.pdb
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppServer\obj\Debug\net6.0\ChatAppServer.genruntimeconfig.cache
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppServer\obj\Debug\net6.0\ref\ChatAppServer.dll
+C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppServer\obj\Debug\net6.0\ChatAppServer.sourcelink.json

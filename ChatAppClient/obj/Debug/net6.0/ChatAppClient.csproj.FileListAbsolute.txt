@@ -21,3 +21,4 @@ C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppClient\obj\Debug\net6.0\re
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppClient\obj\Debug\net6.0\ChatAppClient.pdb
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppClient\obj\Debug\net6.0\ChatAppClient.genruntimeconfig.cache
 C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppClient\obj\Debug\net6.0\ref\ChatAppClient.dll
+C:\Users\e1154\Documents\Formacao\gPRC_Project\ChatAppClient\obj\Debug\net6.0\ChatAppClient.sourcelink.json
